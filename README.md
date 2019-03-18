@@ -12,4 +12,4 @@ O Ionic é uma das tecnologias mais interessantes que você pode aprender no mom
 
 1. Clone ou baixe este repositório e, faça o comando a seguir para instalar as dependências: npm install
 2. Para executar, estando no diretório do projeto, abra o console: ionic serve
-3. Para testar, utilize o software de sua preferência (VS Code, por exemplo) e acesse: http://localhost:8000
+3. Para testar, utilize o software de sua preferência (VS Code, por exemplo) e acesse: http://localhost:8100
